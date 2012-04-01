@@ -1,0 +1,92 @@
+body {
+	background-color:fffff;
+	font-family: 'Lato', sans-serif;
+	font-style:normal;
+	font-weight:300;
+	font-size:26pt;
+	color:#000000;
+	text-align:center;
+}
+
+p {
+	font-size:14pt;
+}
+
+ul, li {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+    list-style: none;
+	width:750px;
+	height:500px;
+}
+	
+h2 {
+	margin-top:40px;
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-weight:300;
+}
+.topbar {
+	margin:40px;
+	font-style:italic;
+	font-weight:300;
+	font-size:26pt;
+}
+
+.bottombar {
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-weight:300;
+	font-size:18pt;
+	color:#000000;
+	font-color:#ffffff;
+	text-align:center;
+	bottom:20px;
+	height:auto;
+}
+
+.map {
+	height:500px;
+	width:750px;
+	margin:auto;
+	border: 4px solid #0000;
+	border-width:5px;
+}
+
+.red {
+	background-color:#9A3334;
+	border-color:#9A3334;
+}
+
+.ltblue {
+	background-color:#3399FF;
+}
+
+.dkblue {
+	background-color:#336699;
+}
+.silver {
+	background-color:#738F9B;
+}
+
+.yellow {
+	background-color:#EFDD6F;
+}
+
+.brown {
+	background-color:#7B4A12;
+}
+
+.purple {
+	background-color:#663399;
+}
+
+.green {
+	background-color:#009966;
+}
+.orange {
+	background-color:#FF6600;
+}
+

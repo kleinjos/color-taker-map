@@ -7,9 +7,16 @@ body {
 	color:#000000;
 	text-align:center;
 }
+a {
+	color:#3399FF;
+}
 
 p {
 	font-size:14pt;
+	margin-left:20px;
+	margin-right:20px;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 
 ul, li {
@@ -89,4 +96,29 @@ h2 {
 .orange {
 	background-color:#FF6600;
 }
+
+.spacer {
+	background-color:rgba(0,0,0,.9);
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-weight:300;
+	font-size:18pt;
+	color:#ffffff;
+	top:10px;
+	bottom:10px;
+	height:auto;
+	text-align:left;
+}
+
+.git {
+	background-color:rgba(0,0,0,.9);
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-weight:700;
+	font-size:18pt;
+	color:#ffffff;
+	height:30px;
+	text-align:center;
+}
+
 
